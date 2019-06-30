@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SmartHomeSystem.iml" filepath="$PROJECT_DIR$/SmartHomeSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Smart Home.iml" filepath="$PROJECT_DIR$/Smart Home.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

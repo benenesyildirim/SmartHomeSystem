@@ -14,6 +14,8 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.smarthomesystem.R;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.Socket;
